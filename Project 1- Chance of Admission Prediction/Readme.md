@@ -1,5 +1,5 @@
 This is a Predictive model to predict the Chance of Admission for Higher Studies
-Predict the chances of admission of a student to a Graduate program based on:
+to a Graduate program based on:
 
 1. GRE Scores (290 to 340)
 2. TOEFL Scores (92 to 120)
